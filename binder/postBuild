@@ -1,0 +1,9 @@
+# the following is required for ipyvolume widgets
+jupyter-nbextension enable widgetsnbextension --py
+
+# make sure we have a place where we can pick up the custom template
+mkdir ~/.jupyter/voila/templates/
+cp -r ./custom/ ~/.jupyter/voila/templates/
+
+# alias viola to default to using our custom template for styling
+alias voila="voila --template=custom"

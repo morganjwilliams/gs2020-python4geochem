@@ -1,0 +1,19 @@
+name: gs2020-python4geochem
+
+channels:
+  - conda-forge
+  - defaults
+
+dependencies:
+  - python>=3.7
+  - pip
+  - umap-learn
+  - voila
+  - ipympl
+  - ipyvolume
+  - widgetsnbextension
+  - imagemagick
+  - jupytext
+  - pip:
+      - jupyter_contrib_nbextensions
+      - -e git+git://github.com/morganjwilliams/pyrolite.git@develop#egg=pyrolite[skl]
