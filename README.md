@@ -4,7 +4,7 @@
 <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License: MIT License">
 </a>
 
-This is a Binder-enabled repository to accompany the abstract
-"Building Open Source Geochemical Research Tools in Python" for Session 06d
+This is a Binder-enabled repository to accompany the abstract "Building Open Source
+Geochemical Research Tools in Python" for Goldschmidt 2020 Session 06d
 (Information, Innovation, and Knowledge in Microanalytical Mass Spectrometry;
 12:30-13:30 Thursday June 25 AWST/ 18:30-19:30 Wednesday June 24 HST).
