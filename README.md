@@ -1,6 +1,7 @@
 # Building Open Source Geochemical Research Tools in Python
 
 [![License: MIT License](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/morganjwilliams/gs2020-python4geochem/blob/master/LICENSE)
+[![DOI](https://zenodo.org/badge/268483690.svg)](https://zenodo.org/badge/latestdoi/268483690)
 
 This is a Binder-enabled repository to accompany the abstract ["Building Open Source
 Geochemical Research Tools in Python"](
