@@ -17,3 +17,6 @@ dependencies:
   - pip:
       - jupyter_contrib_nbextensions
       - -e git+git://github.com/morganjwilliams/pyrolite.git@develop#egg=pyrolite[skl]
+      - -e git+git://github.com/morganjwilliams/pyrolite-meltsutil.git@develop#egg=pyrolite-meltsutil
+      - -e git+git://github.com/morganjwilliams/autopew.git@develop#egg=autopew
+      - -e git+git://github.com/morganjwilliams/interferences.git@develop#egg=interferences
