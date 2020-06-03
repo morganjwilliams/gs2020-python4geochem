@@ -18,7 +18,7 @@
 {% for css in resources.inlining.css %}
 <style>
   {{ css }}
-    </style>
+</style>
 {% endfor %}
 
 <style>
