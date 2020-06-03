@@ -5,7 +5,7 @@
 </a>
 
 [![Launch on Binder](https://mybinder.org/badge_logo.svg)](
-https://mybinder.org/v2/gh/morganjwilliams/gs2020-python4geochem/master?filepath=/Fvoila/render/00_overview.ipynb
+https://mybinder.org/v2/gh/morganjwilliams/gs2020-python4geochem/develop?filepath=/voila/render/00_overview.ipynb
 )
 
 This is a Binder-enabled repository to accompany the abstract ["Building Open Source
