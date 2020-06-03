@@ -5,7 +5,7 @@
 </a>
 
 [![Launch on Binder](https://mybinder.org/badge_logo.svg)](
-https://mybinder.org/v2/gh/morganjwilliams/gs2020-python4geochem/develop?filepath=/voila/render/00_overview.ipynb
+https://mybinder.org/v2/gh/morganjwilliams/gs2020-python4geochem/develop??urlpath=/voila/render/00_overview.ipynb
 )
 
 This is a Binder-enabled repository to accompany the abstract ["Building Open Source
@@ -19,5 +19,5 @@ https://goldschmidt.info/2020/program/programViewThemes#period_472_4728_12337)
 This presentation has been constructed using
 <a href="https://jupyter.org">Jupyter notebooks</a> and
 <a href="https://voila.readthedocs.io">Voilà</a> as an experiment in combining what
-would typically be found in a conference presntation with live-renedered interactive 
+would typically be found in a conference presentation with live-rendered interactive
 elements as a way to demonstrate aspects of software.
