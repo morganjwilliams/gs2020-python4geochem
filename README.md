@@ -15,3 +15,9 @@ for [Goldschmidt 2020 Session 06d](
 https://goldschmidt.info/2020/program/programViewThemes#period_472_4728_12337)
 (Information, Innovation, and Knowledge in Microanalytical Mass Spectrometry;
 12:30-13:30 Thursday June 25 AWST/ 18:30-19:30 Wednesday June 24 HST).
+
+This presentation has been constructed using
+<a href="https://jupyter.org">Jupyter notebooks</a> and
+<a href="https://voila.readthedocs.io">Voilà</a> as an experiment in combining what
+would typically be found in a conference presntation with live-renedered interactive 
+elements as a way to demonstrate aspects of software.
