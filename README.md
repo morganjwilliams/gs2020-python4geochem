@@ -4,9 +4,14 @@
 <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License: MIT License">
 </a>
 
-[![Launch on Binder](https://mybinder.org/badge_logo.svg)](
-https://mybinder.org/v2/gh/morganjwilliams/gs2020-python4geochem/develop??urlpath=/voila/render/00_overview.ipynb
+[![View Presentation](https://mybinder.org/badge_logo.svg)](
+https://mybinder.org/v2/gh/morganjwilliams/gs2020-python4geochem/develop?urlpath=/voila/render/00_overview.ipynb
 )
+
+[![View Notebooks](https://mybinder.org/badge_logo.svg)](
+https://mybinder.org/v2/gh/morganjwilliams/gs2020-python4geochem/develop?filepath=./00_overview.ipynb
+)
+
 
 This is a Binder-enabled repository to accompany the abstract ["Building Open Source
 Geochemical Research Tools in Python"](
