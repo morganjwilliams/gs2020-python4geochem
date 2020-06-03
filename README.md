@@ -3,6 +3,7 @@
 <a href="https://github.com/morganjwilliams/gs2020-python4geochem/blob/master/LICENSE" >
 <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License: MIT License">
 </a>
+
 [![Launch on Binder](https://mybinder.org/badge_logo.svg)](
 https://mybinder.org/v2/gh/morganjwilliams/gs2020-python4geochem/master?filepath=/Fvoila/render/00_overview.ipynb
 )
