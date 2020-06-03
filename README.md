@@ -12,7 +12,6 @@ https://mybinder.org/v2/gh/morganjwilliams/gs2020-python4geochem/develop?urlpath
 https://mybinder.org/v2/gh/morganjwilliams/gs2020-python4geochem/develop?filepath=./00_overview.ipynb
 )
 
-
 This is a Binder-enabled repository to accompany the abstract ["Building Open Source
 Geochemical Research Tools in Python"](
 https://goldschmidt.info/2020/abstracts/abstractView?id=2020003661)
