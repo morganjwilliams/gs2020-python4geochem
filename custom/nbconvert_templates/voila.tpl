@@ -174,8 +174,8 @@
 
     if (window.mobilecheck()) {
       for (var i = 0; i < rendered_markdown.length; i++) {
-        rendered_markdown.item(i).style.fontSize = "200%"
-        rendered_markdown.item(i).style.padding = "80px"
+        rendered_markdown.item(i).style.fontSize = "110%"
+        rendered_markdown.item(i).style.padding = "20px"
       }
     } else {
       for (var i = 0; i < rendered_markdown.length; i++) {
