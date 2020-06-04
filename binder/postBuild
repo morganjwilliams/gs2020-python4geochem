@@ -3,9 +3,8 @@ jupyter-nbextension enable widgetsnbextension --py
 
 # make sure we have a place where we can pick up the custom template
 mkdir -p ~/.jupyter/voila/templates/
+mkdir -p  ~/.local/share/jupyter/voila/templates
 
 cp -r ./custom/ ~/.jupyter/voila/templates/
 cp -r ./custom/ ~/.local/share/jupyter/voila/templates
-
-# alias viola to default to using extensions and our custom template for styling
-alias voila="voila --template=custom --enable_nbextensions=True"
+cp -r ./custom/ /srv/conda/envs/notebook/share/jupyter/voila/templates
