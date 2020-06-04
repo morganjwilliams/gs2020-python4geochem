@@ -7,3 +7,4 @@ mkdir -p  ~/.local/share/jupyter/voila/templates
 
 cp -r ./custom/ ~/.jupyter/voila/templates/
 cp -r ./custom/ ~/.local/share/jupyter/voila/templates
+cp -r ./custom/ /srv/conda/envs/notebook/share/jupyter/voila/templates
