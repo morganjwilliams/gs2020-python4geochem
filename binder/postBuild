@@ -1,10 +1,17 @@
 # the following is required for ipyvolume widgets
 jupyter-nbextension enable widgetsnbextension --py
 
+# for ipyvolume, if using lab:
+#jupyter labextension install @jupyter-widgets/jupyterlab-manager
+#jupyter labextension install ipyvolume
+#jupyter labextension install jupyter-threejs
+
 # make sure we have a place where we can pick up the custom template
 mkdir -p ~/.jupyter/voila/templates/
 mkdir -p  ~/.local/share/jupyter/voila/templates
 
 cp -r ./custom/ ~/.jupyter/voila/templates/
 cp -r ./custom/ ~/.local/share/jupyter/voila/templates
-cp -r ./custom/ /srv/conda/envs/notebook/share/jupyter/voila/templates
+
+# set up jupyter notebook config for voila
+cat ./binder/nbconvert_config.py >> ~/.jupyter/jupyter_notebook_config.py

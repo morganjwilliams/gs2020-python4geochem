@@ -1,6 +1,5 @@
 {
   "VoilaConfiguration": {
-    "template": "custom",
     "enable_nbextensions": true
   }
 }
