@@ -13,7 +13,7 @@ dependencies:
   - ipyvolume
   - widgetsnbextension
   - imagemagick
-  - jupytext
+  - prompt-toolkit=3.0.4 # 3.0.5 broken on conda
   - pip:
       - jupyter_contrib_nbextensions
       - -e git+git://github.com/morganjwilliams/pyrolite.git@develop#egg=pyrolite[skl]
